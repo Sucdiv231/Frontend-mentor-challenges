@@ -27,7 +27,7 @@ export default function Content() {
           </header>
           <main>
             <h1 className=" my-10 text-3xl uppercase">
-              <span className="text-yellow-600 ">We're</span> <br /> Coming{" "}
+              <span className="text-yellow-600 ">We're</span> <br /> Coming
               <br />
               Soon
             </h1>
